@@ -50,7 +50,7 @@ elif platform.system() == 'Windows': # Windows 환경 폰트 설정
 from sklearn.utils import class_weight
 from sklearn.metrics import classification_report
 from sklearn.model_selection import StratifiedKFold, StratifiedShuffleSplit
-from skimage.io import imread
+# from skimage.io import imread
 
 #tensorflow
 import tensorflow as tf
