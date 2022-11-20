@@ -87,7 +87,7 @@ from tensorflow.keras.utils import to_categorical
 
 
 #dataset
-import splitfolders
+# import splitfolders
 from sklearn.model_selection import train_test_split
 
 
